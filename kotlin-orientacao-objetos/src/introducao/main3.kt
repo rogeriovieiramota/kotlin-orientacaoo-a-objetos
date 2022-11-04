@@ -1,3 +1,5 @@
+package introducao
+
 import com.sun.javaws.LaunchDownload
 
 fun main(){
@@ -14,7 +16,7 @@ fun main(){
     println("número da conta $numeroConta")
     println("saldo da conta $saldo")
 
-    //testaCondicoes(saldo)
+    //introducao.testaCondicoes(saldo)
 
 //    for (i in 1..5){
 //        println(i)
