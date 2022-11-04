@@ -1,0 +1,83 @@
+Cursos de Kotlin
+
+**************************************************************************************************************************************
+
+Kotlin: orientação a objetos
+
+https://cursos.alura.com.br/course/kotlin-orientacao-objetos
+
+Entenda o que é o Kotlin e a sua proposta.
+Crie um projeto em Kotlin e rode o seu primeiro código.
+Saiba como criar variáveis e realizar controle de fluxo com if else, when, for e while.
+Entenda a diferença entre o paradigma procedural e orientado a objetos.
+Crie classes, properties e métodos.
+Explore construtores, boas práticas de programação.
+Escreva um código mais idiomático ao Kotlin.
+
+**************************************************************************************************************************************
+======================================================================================================================================
+
+Introdução
+Orientações iniciais e organização do curso
+Criando o projeto
+Preparando o ambiente
+Criando o projeto Kotlin
+Para saber mais - Outros ambientes
+Criando variáveis
+Criando o titular para a conta
+Para saber mais - Tipos de dados primitivos
+Restrições das variáveis
+Adicionando as demais variáveis
+Sobre o uso de variáveis
+O que aprendemos?
+
+Controle de fluxo e o paradigma procedural
+Para saber mais - Abrindo projeto Kotlin no IntelliJ
+Utilizando estruturas condicionais
+Testando if e when
+Utilizando estrutura de repetição
+Testando o for loop e while
+Para saber mais - break e continue com label
+Para saber mais - Detalhe sobre syntax
+Procedural vs Orientação a Objetos
+Sobre procedural e orientação a objetos
+O que aprendemos?
+
+Conhecendo a Orientação a Objetos
+Criando classes e objetos
+Criando a classe conta
+Para saber mais - Criação de classe
+Cópia e referência
+Testando cópia e referência
+Sobre cópia e referência
+Implementando depósito
+Implementando a função de depósito
+O que aprendemos?
+
+Implementando comportamentos
+Implementando os métodos
+Criando métodos da classe
+Sobre o uso de funções membros
+Implementando a transferência
+Transferindo de uma conta para outra
+Encapsulamento com getter e setter
+Criando getter e setter do saldo
+Sobre o uso de encapsulamento
+Para saber mais - Modificadores de acesso
+O que aprendemos?
+
+Escrevendo código mais idiomático ao Kotlin
+Utilizando properties
+Utilizando getter e setter da property
+Sobre o uso de properties
+Para saber mais - Mais detalhes de properties
+Criando contas com construtor
+Criando contas com construtor personalizado
+Para saber mais - Construtores e inicialização
+Utilizando labels
+Enviando argumentos nomeados
+Para saber mais - Convenção de código em Kotlin
+O que aprendemos?
+Conclusão
+Projeto final
+

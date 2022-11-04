@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74c304e7-6635-476e-b164-800c633a046e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GxGhJlgQdhoeXEuMnR5BesTsHy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="Main3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="bytebank" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main3Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="bytebank" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.Main3Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74c304e7-6635-476e-b164-800c633a046e" name="Default Changelist" comment="" />
+      <created>1667322938999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667322938999</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="267" key="GridCell.Tab.0.bottom" timestamp="1667587138726">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state width="2517" height="267" key="GridCell.Tab.0.bottom/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667587138726" />
+    <state width="1323" height="165" key="GridCell.Tab.0.bottom/0.0.1366.687@0.0.1366.687" timestamp="1667583196260" />
+    <state width="2517" height="267" key="GridCell.Tab.0.center" timestamp="1667587138726">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state width="2517" height="267" key="GridCell.Tab.0.center/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667587138726" />
+    <state width="1323" height="165" key="GridCell.Tab.0.center/0.0.1366.687@0.0.1366.687" timestamp="1667583196258" />
+    <state width="2517" height="267" key="GridCell.Tab.0.left" timestamp="1667587138725">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state width="2517" height="267" key="GridCell.Tab.0.left/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667587138725" />
+    <state width="1323" height="165" key="GridCell.Tab.0.left/0.0.1366.687@0.0.1366.687" timestamp="1667583196256" />
+    <state width="2517" height="267" key="GridCell.Tab.0.right" timestamp="1667587138726">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state width="2517" height="267" key="GridCell.Tab.0.right/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667587138726" />
+    <state width="1323" height="165" key="GridCell.Tab.0.right/0.0.1366.687@0.0.1366.687" timestamp="1667583196259" />
+    <state x="976" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1667506428328">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state x="976" y="323" key="com.intellij.ide.util.TipDialog/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667506428328" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bytebank$Main3Kt.ic" NAME="Main3Kt Coverage Results" MODIFIED="1667571911171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
