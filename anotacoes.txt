@@ -1,0 +1,53 @@
+https://kotlinlang.org/docs/coding-conventions.html#default-parameter-values
+
+https://kotlinlang.org/docs/control-flow.html#break-and-continue-in-loops
+
+
+material interessante e a forma do readme do cara legal
+
+https://github.com/androiddevbr/materiais-de-estudo
+
+https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012#
+
+https://developer.android.com/courses
+
+https://developer.android.com/courses/kotlin-bootcamp/overview
+
+https://developer.android.com/codelabs/kotlin-bootcamp-introduction?hl=pt-br#6
+
+https://www.youtube.com/user/GoogleDevelopers
+
+google certificados; https://www.youtube.com/watch?v=Hldr6c2GEc4
+
+Google lança cursos que podem substituir diplomas : https://www.youtube.com/watch?v=Hldr6c2GEc4
+
+https://www.youtube.com/watch?v=8I86WmxdzzA
+
+
+
+https://github.com/androiddevbr/materiais-de-estudo
+
+https://www.alura.com.br/artigos/escrever-bom-readme
+
+https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+
+https://dev.to/tatidev/como-montar-um-readme-md-para-o-seu-projeto-4hmj
+
+https://github.com/tatialveso/readme-template
+
+https://github.com/othneildrew/Best-README-Template
+
+https://www.makeareadme.com/
+
+principio do solid SOLID fica FÁCIL com Essas Ilustrações: https://www.youtube.com/watch?v=6SfrO3D4dHM
+
+
+
+treinamento kotlin
+https://www.youtube.com/watch?v=U1bxClvmERM&list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn
+
+https://www.youtube.com/watch?v=hEbb9cckl9c&list=PLizN3WA8HR1z1HJy0uSjNe4zhmzJNplb3
+
+
+
+
