@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74c304e7-6635-476e-b164-800c633a046e" name="Default Changelist" comment="" />
+    <list default="true" id="74c304e7-6635-476e-b164-800c633a046e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Numeros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/TextoString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2GxGhJlgQdhoeXEuMnR5BesTsHy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/implementacao" />
-    <property name="settings.editor.selected.configurable" value="inlay.hints.kotlin" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -36,7 +44,7 @@
       <recent name="C:\cursos\kotlin\kotlin-orientacao-objetos\src\introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.getsSets.GetsSetsKt">
+  <component name="RunManager" selected="Kotlin.fundamentos.NumerosKt">
     <configuration name="fundamentos.ChamadaseguraKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="bytebank" />
       <option name="VM_PARAMETERS" />
@@ -45,6 +53,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="fundamentos.ChamadaseguraKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.NumerosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="bytebank" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.NumerosKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fundamentos.TextoStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="bytebank" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TextoStringKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="implementacao.Deposita01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="bytebank" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="implementacao.Deposita01Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="implementacao.Prg01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="bytebank" />
       <option name="VM_PARAMETERS" />
@@ -89,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="introducao.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="bytebank" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introducao.MainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.fundamentos.NumerosKt" />
+        <item itemvalue="Kotlin.fundamentos.TextoStringKt" />
         <item itemvalue="Kotlin.getsSets.GetsSetsKt" />
         <item itemvalue="Kotlin.implementacao.Prg01Kt" />
         <item itemvalue="Kotlin.fundamentos.ChamadaseguraKt" />
-        <item itemvalue="Kotlin.implementacao.Deposita01Kt" />
-        <item itemvalue="Kotlin.introducao.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,38 +138,47 @@
       <screen x="0" y="0" width="1366" height="687" />
     </state>
     <state x="275" y="0" width="816" height="687" key="#Intentions/0.0.1366.687@0.0.1366.687" timestamp="1667858323988" />
+    <state x="934" y="94" key="CommitChangelistDialog2" timestamp="1668014290517">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state x="934" y="94" key="CommitChangelistDialog2/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1668014290517" />
     <state x="1060" y="241" key="FileChooserDialogImpl" timestamp="1667590962210">
       <screen x="0" y="0" width="2560" height="999" />
     </state>
     <state x="1060" y="241" key="FileChooserDialogImpl/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667590962210" />
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom" timestamp="1667863873767">
-      <screen x="0" y="0" width="1366" height="687" />
-    </state>
-    <state width="2517" height="267" key="GridCell.Tab.0.bottom/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667595711971" />
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom/0.0.1366.687@0.0.1366.687" timestamp="1667863873767" />
-    <state width="1323" height="231" key="GridCell.Tab.0.center" timestamp="1667863873767">
-      <screen x="0" y="0" width="1366" height="687" />
-    </state>
-    <state width="2517" height="267" key="GridCell.Tab.0.center/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667595711971" />
-    <state width="1323" height="231" key="GridCell.Tab.0.center/0.0.1366.687@0.0.1366.687" timestamp="1667863873767" />
-    <state width="1323" height="231" key="GridCell.Tab.0.left" timestamp="1667863873766">
-      <screen x="0" y="0" width="1366" height="687" />
-    </state>
-    <state width="2517" height="267" key="GridCell.Tab.0.left/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667595711971" />
-    <state width="1323" height="231" key="GridCell.Tab.0.left/0.0.1366.687@0.0.1366.687" timestamp="1667863873766" />
-    <state width="1323" height="231" key="GridCell.Tab.0.right" timestamp="1667863873767">
-      <screen x="0" y="0" width="1366" height="687" />
-    </state>
-    <state width="2517" height="267" key="GridCell.Tab.0.right/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667595711971" />
-    <state width="1323" height="231" key="GridCell.Tab.0.right/0.0.1366.687@0.0.1366.687" timestamp="1667863873767" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1667858396816">
-      <screen x="0" y="0" width="1366" height="687" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.687@0.0.1366.687" timestamp="1667858396816" />
-    <state x="976" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1667506428328">
+    <state width="2517" height="149" key="GridCell.Tab.0.bottom" timestamp="1668014333265">
       <screen x="0" y="0" width="2560" height="999" />
     </state>
+    <state width="2517" height="149" key="GridCell.Tab.0.bottom/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1668014333265" />
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom/0.0.1366.687@0.0.1366.687" timestamp="1668004605501" />
+    <state width="2517" height="149" key="GridCell.Tab.0.center" timestamp="1668014333265">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state width="2517" height="149" key="GridCell.Tab.0.center/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1668014333265" />
+    <state width="1323" height="149" key="GridCell.Tab.0.center/0.0.1366.687@0.0.1366.687" timestamp="1668004605500" />
+    <state width="2517" height="149" key="GridCell.Tab.0.left" timestamp="1668014333249">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state width="2517" height="149" key="GridCell.Tab.0.left/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1668014333249" />
+    <state width="1323" height="149" key="GridCell.Tab.0.left/0.0.1366.687@0.0.1366.687" timestamp="1668004605500" />
+    <state width="2517" height="149" key="GridCell.Tab.0.right" timestamp="1668014333265">
+      <screen x="0" y="0" width="2560" height="999" />
+    </state>
+    <state width="2517" height="149" key="GridCell.Tab.0.right/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1668014333265" />
+    <state width="1323" height="149" key="GridCell.Tab.0.right/0.0.1366.687@0.0.1366.687" timestamp="1668004605500" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1668003254224">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.687@0.0.1366.687" timestamp="1668003254224" />
+    <state x="92" y="92" width="1182" height="503" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1668004079045">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="92" y="92" width="1182" height="503" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.687@0.0.1366.687" timestamp="1668004079045" />
+    <state x="521" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1668003325393">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
     <state x="976" y="323" key="com.intellij.ide.util.TipDialog/-1366.0.1366.687/0.0.2560.999@0.0.2560.999" timestamp="1667506428328" />
+    <state x="521" y="222" key="com.intellij.ide.util.TipDialog/0.0.1366.687@0.0.1366.687" timestamp="1668003325393" />
     <state x="535" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1667857985307">
       <screen x="0" y="0" width="1366" height="687" />
     </state>
